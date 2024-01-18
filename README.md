@@ -1,3 +1,5 @@
+**Our task is to predict whether a customer continues with their account or closes it (e.g., churns)**
+
 **Binary Classification with a Bank Churn Dataset**
 Playground Series - Season 4, Episode 1
 
